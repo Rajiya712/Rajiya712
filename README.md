@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Material ui , Node js.**
 
-- 📫 Contact address *246rajiyasultana@gmail.com*
+- 📫 How to reach me: 246rajiyasultana@gmail.com
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mWkJMcqFwdkAMuCFqoCxgxB4wV8YdHtQ/view?usp=sharing]
 - ⚡ Fun fact **I think I am cool person.**
